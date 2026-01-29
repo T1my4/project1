@@ -1,0 +1,15 @@
+{
+  "assistant_id": "vazelina",
+  "assistant_name": "Вазилина",
+  "full_name": "Вазилина",
+  "voice_gender": "female",
+  "language": "ru-RU",
+  "note_path": "C:\\Users\\RED\\assistant_vazelina_notes.txt",
+  "activation_phrase": "вазилина",
+  "response_delay": 0.5,
+  "volume": 0.8,
+  "rate": 150,
+  "listen_timeout": 3,
+  "phrase_time_limit": 5,
+  "input_mode": "console"
+}
