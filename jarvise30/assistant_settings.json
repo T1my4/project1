@@ -1,0 +1,16 @@
+{
+  "voice_gender": "male",
+  "language": "ru-RU",
+  "note_path": "C:\\Users\\red\\assistant_notes.txt",
+  "assistant_name": "джарвис",
+  "activation_phrase": "джарвис",
+  "response_delay": 0.5,
+  "volume": 0.8,
+  "rate": 150,
+  "listen_timeout": 3,
+  "phrase_time_limit": 5,
+  "input_mode": "console",
+  "bg_color": "#00ffff",
+  "text_color": "#000000",
+  "button_color": "#ff80ff"
+}

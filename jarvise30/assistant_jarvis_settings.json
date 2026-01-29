@@ -1,0 +1,15 @@
+{
+  "assistant_id": "jarvis",
+  "assistant_name": "J.A.R.V.I.S.",
+  "full_name": "Джарвис",
+  "voice_gender": "male",
+  "language": "ru-RU",
+  "note_path": "C:\\Users\\RED\\assistant_jarvis_notes.txt",
+  "activation_phrase": "джарвис",
+  "response_delay": 0.5,
+  "volume": 0.8,
+  "rate": 150,
+  "listen_timeout": 3,
+  "phrase_time_limit": 5,
+  "input_mode": "console"
+}
